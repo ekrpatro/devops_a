@@ -1,0 +1,21 @@
+E:\git-temp5>git status
+On branch cse
+nothing to commit, working tree clean
+
+E:\git-temp5>git switch main
+fatal: invalid reference: main
+
+E:\git-temp5>git branch
+* cse
+  master
+
+E:\git-temp5>git switch master
+Switched to branch 'master'
+
+E:\git-temp5>git status
+On branch master
+nothing to commit, working tree clean
+
+E:\git-temp5>notepad Hutch.txt
+
+E:\git-temp5>
